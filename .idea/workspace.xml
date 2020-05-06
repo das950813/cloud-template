@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b8f439d-0f4f-43cc-b26d-18bd50b25a35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\Maven\maven-dependcies" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\java\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bFY9nPBy950C1PqVEvjxTlHUgI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Idea/svnRep" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulApplication">
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="template-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tycoding.admin.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="template-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tycoding.auth.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="template-boot-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tycoding.boot.admin.BootAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="template-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tycoding.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="template-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tycoding.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="template-zipkin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tycoding.zipkin.ZipkinApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="template-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tycoding.zuul.ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b8f439d-0f4f-43cc-b26d-18bd50b25a35" name="Default Changelist" comment="" />
+      <created>1588229159464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588229159464</updated>
+      <workItem from="1588229164599" duration="20663000" />
+      <workItem from="1588747215536" duration="1117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1588742167556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588742167556" />
+    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1588742167556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588742167556" />
+    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1588742167556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588742167556" />
+    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1588742167556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588742167556" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1588742167557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588742167557" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1588742167557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588742167557" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1588742167557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588742167557" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1588742167557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588742167557" />
+    <state width="1322" height="216" key="GridCell.Tab.2.bottom" timestamp="1588742167557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588742167557" />
+    <state width="1322" height="216" key="GridCell.Tab.2.center" timestamp="1588742167557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1588742167557" />
+    <state width="1322" height="216" key="GridCell.Tab.2.left" timestamp="1588742167557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1588742167557" />
+    <state width="1322" height="216" key="GridCell.Tab.2.right" timestamp="1588742167557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1588742167557" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1588732269190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588732269190" />
+  </component>
+</project>
